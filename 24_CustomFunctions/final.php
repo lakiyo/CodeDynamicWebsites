@@ -37,7 +37,7 @@
 				         
 				    }
 					
-					$surfIsUp = false;
+					$surfIsUp = true;
 					
 					if ($surfIsUp) {
 						hangTen();

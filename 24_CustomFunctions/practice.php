@@ -31,10 +31,6 @@
 				<?php
 					
 					// your code here
-					function hangTen(){
-						echo "Surf'S up! Grab your board!"
-					}
-					hangten();
 					
 				?>
 				
